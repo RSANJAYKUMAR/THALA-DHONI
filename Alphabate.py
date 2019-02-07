@@ -1,5 +1,5 @@
 ms=raw_input()
 if(ms.isalpha()):
-	print('Alpahabet')
+	Print('Alpahabet')
 else:
-	print('No')
+	Print('No')

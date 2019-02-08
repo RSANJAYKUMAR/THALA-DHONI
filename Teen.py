@@ -1,6 +1,6 @@
-n =int(input())
+s =int(input())
 count =0
 while(n > 0):
    count=count+1
-   n=n/10
+   s=s/10
 print(count)
